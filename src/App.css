@@ -1,0 +1,45 @@
+.container {
+  max-width: 650px;
+  width: 100%;
+  margin: auto;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.hero {
+  text-align: center;
+}
+
+.social-link:first-child {
+  margin-right: 12px;
+}
+
+.blog {
+  margin-top: 72px;
+}
+
+.blog-title {
+  margin-bottom: 24px;
+  font-size: 36px;
+}
+
+.blog-date {
+  text-align: right;
+  margin-top: 12px;
+  color: #cccccc;
+}
+
+a {
+  text-decoration: none;
+  color: #505afc;
+  transition: 250ms;
+  font-size: 24px;
+}
+
+a:hover {
+  color: #5058fc70;
+  transition: 250ms;
+}
+
+.hero-title {
+  font-size: 72px;
+}
